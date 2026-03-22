@@ -6,8 +6,44 @@
 }
 
 .olandes {
-	background-image: url(Captura%20de%20tela%202026-02-21%20185200.png);
-	background-repeat: repeat;
 	height: 483px;
 	width: 425px;
+	background-color: #FF9;
 }
+.pityfull {
+	height: 300px;
+	width: 800px;
+	background-color:#CCC;
+	position: absolute;
+	top:663px;
+
+}
+.blog {
+	height: 483px;
+	width: 800px;
+	background-color: #CF0;
+	float: right;
+	position:absolute;
+	top:163px;
+	left:458px;
+}
+
+
+
+.anono {
+	background-color: #00C;
+	width: 425px;
+	height: 300px;
+	position:absolute;
+	top:663px;
+	left:833px;
+}
+.theoamr {
+	position:absolute;
+	top:60px;
+}
+.class1 {
+	position:absolute;
+	left:370px;
+}
+
