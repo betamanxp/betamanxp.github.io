@@ -63,14 +63,16 @@ feito por @historiassemsentidos no spacehey
 
     <script>
       var video = document.getElementById('video');
-      var videoSrc = 'http://localhost:8080/hls/stream.m3u8';
+      var videoSrc = 'https://balanced-connection-upc-compared.trycloudflare.com/';
 
-      if (Hls.isSupported()) {
-        var hls = new Hls();
-        hls.loadSource(videoSrc);
-        hls.attachMedia(video);
-      } 
-    
+if (Hls.isSupported()) {
+    var hls = new Hls();
+    hls.loadSource(videoSrc);
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED, function() {
+        video.play();
+    });
+}
       else if (video.canPlayType('application/vnd.apple.mpegurl')) {
         video.src = videoSrc;
       }
