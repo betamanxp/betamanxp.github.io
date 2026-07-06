@@ -28,7 +28,7 @@
 	position: absolute;
 	top: 150px;
 	bottom: 100px;
-	background-image: url(../OneDrive/Documentos/paineter/rlbpob/theneus.gif);
+	background-image: url(theneus.gif);
 }
 .news1 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -76,7 +76,7 @@
 	width: 657px;
 	top: 150px;
 	left: 365px;
-	background-image: url(../OneDrive/Documentos/paineter/rlbpob/johnpork.gif);
+	background-image: url(johnpork.gif);
 }
 .maintext {
 	font-family: Tahoma;
@@ -91,7 +91,7 @@
 	height: 30px;
 	width: 350px;
 	top: 460px;
-	background-image: url(../OneDrive/Documentos/GitHub/betamanxp.github.io/videosheader.gif);
+	background-image: url(videosheader.gif);
 }
 .thevideos {
 	background-color: #FF00FF;
@@ -99,14 +99,14 @@
 	width: 350px;
 	top: 35px;
 	position: absolute;
-	background-image: url(../OneDrive/Documentos/GitHub/betamanxp.github.io/videos-boxman.gif);
+	background-image: url(videos-boxman.gif);
 }
 .thumb1 {
 	color: #3234CC;
 	background-color: #3234CC;
 	height: 80px;
 	width: 107px;
-	background-image: url(../OneDrive/Documentos/GitHub/betamanxp.github.io/thumb1.gif);
+	background-image: url(thumb1.gif);
 	left: 14px;
 	position: absolute;
 	top: 10px;
@@ -128,7 +128,7 @@
 .thumb2 {
 	color: #3234CC;
 	background-color: #3234CC;
-	background-image: url(../OneDrive/Documentos/GitHub/betamanxp.github.io/thumb2.gif);
+	background-image: url(thumb2.gif);
 	position: absolute;
 	width: 107px;
 	height: 80px;
