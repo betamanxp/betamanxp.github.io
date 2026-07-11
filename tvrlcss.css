@@ -28,7 +28,7 @@
 	position: absolute;
 	top: 150px;
 	bottom: 100px;
-	background-image: url(../OneDrive/Documentos/paineter/rlbpob/theneus.gif);
+	background-image: url(theneus.gif);
 }
 .news1 {
 	font-family: Verdana, Arial, Helvetica, sans-serif;
@@ -76,7 +76,7 @@
 	width: 657px;
 	top: 150px;
 	left: 365px;
-	background-image: url(../OneDrive/Documentos/paineter/rlbpob/johnpork.gif);
+	background-image: url(johnpork.gif);
 }
 .maintext {
 	font-family: Tahoma;
@@ -91,7 +91,7 @@
 	height: 30px;
 	width: 350px;
 	top: 460px;
-	background-image: url(../OneDrive/Documentos/GitHub/betamanxp.github.io/videosheader.gif);
+	background-image: url(videosheader.gif);
 }
 .thevideos {
 	background-color: #FF00FF;
@@ -99,14 +99,14 @@
 	width: 350px;
 	top: 35px;
 	position: absolute;
-	background-image: url(../OneDrive/Documentos/GitHub/betamanxp.github.io/videos-boxman.gif);
+	background-image: url(videos-boxman.gif);
 }
 .thumb1 {
 	color: #3234CC;
 	background-color: #3234CC;
 	height: 80px;
 	width: 107px;
-	background-image: url(../OneDrive/Documentos/GitHub/betamanxp.github.io/thumb1.gif);
+	background-image: url(thumb1.gif);
 	left: 14px;
 	position: absolute;
 	top: 10px;
@@ -128,7 +128,7 @@
 .thumb2 {
 	color: #3234CC;
 	background-color: #3234CC;
-	background-image: url(../OneDrive/Documentos/GitHub/betamanxp.github.io/thumb2.gif);
+	background-image: url(thumb2.gif);
 	position: absolute;
 	width: 107px;
 	height: 80px;
@@ -152,4 +152,71 @@
 	width: 197px;
 	left: 0px;
 	top: -1px;
+}
+.underblockheader {
+	color: #FF0099;
+	background-color: #FF3399;
+	position: absolute;
+	height: 30px;
+	width: 658px;
+	top: 460px;
+	left: 365px;
+	background-image: url(underheader.gif);
+}
+.yeahunderblock {
+	background-color: #99FF00;
+	position: absolute;
+	height: 800px;
+	width: 658px;
+	top: 35px;
+}
+.newsheader {
+	color: #0033CC;
+	background-color: #0099CC;
+	position: absolute;
+	height: 50px;
+	width: 800px;
+	top: 130px;
+	background-image: url(newsheader.gif);
+}
+.pictureman {
+	background-color: #FF9900;
+	height: 200px;
+	width: 200px;
+	top: 130px;
+	position: absolute;
+	left: 816px;
+	background-image: url(person.gif);
+}
+.author {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	position: absolute;
+	top: 210px;
+}
+.title {
+	font-family: "Lucida Console";
+	font-weight: bold;
+	color: #000000;
+	text-decoration: blink;
+	top: 180px;
+	position: absolute;
+	font-size: 24px;
+	width: 800px;
+	background-color: #999999;
+	height: 139px;
+}
+.subtitle {
+	position: absolute;
+	top: 115px;
+	left: 185px;
+	width: 417px;
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+.line1 {
+	font-family: "Comic Sans MS";
+	font-style: italic;
+	position: absolute;
+	top: 320px;
+	width: 758px;
 }
