@@ -1,0 +1,14 @@
+.videobann {
+	background-color: #C00;
+	position: absolute;
+	height: 50px;
+	width: 1000px;
+	background-image: url(imagens/videobackgfrounds/videoban.gif);
+}
+.videoblacki {
+	background-color: #09F;
+	position: absolute;
+	height: 480px;
+	width: 640px;
+	top: 100px;
+}
