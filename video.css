@@ -6,9 +6,31 @@
 	background-image: url(imagens/videobackgfrounds/videoban.gif);
 }
 .videoblacki {
-	background-color: #09F;
+	background-color: #000;
 	position: absolute;
 	height: 480px;
 	width: 640px;
 	top: 100px;
+}
+.videotext {
+	position: absolute;
+	top: 600px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: 600;
+	font-size: x-large;
+}
+.videodesc {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: medium;
+	font-weight: 500;
+	position: absolute;
+	top: 650px;
+}
+.videoselect {
+	background-color: #00C;
+	position: absolute;
+	height: 700px;
+	width: 325px;
+	top: 100px;
+	left: 684px;
 }
