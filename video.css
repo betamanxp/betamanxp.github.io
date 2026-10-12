@@ -8,16 +8,19 @@
 .videoblacki {
 	background-color: #000;
 	position: absolute;
-	height: 480px;
+	height: 423px;
 	width: 640px;
 	top: 100px;
 }
+
+
 .videotext {
 	position: absolute;
 	top: 600px;
 	font-family: Verdana, Geneva, sans-serif;
 	font-weight: 600;
 	font-size: x-large;
+	width: 640px;
 }
 .videodesc {
 	font-family: Verdana, Geneva, sans-serif;
@@ -25,6 +28,7 @@
 	font-weight: 500;
 	position: absolute;
 	top: 650px;
+	width: 640px;
 }
 .videoselect {
 	background-color: #00C;
